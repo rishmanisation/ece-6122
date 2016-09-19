@@ -1,1 +1,1 @@
-This is a C++ program that implements a 2-dimensional Discrete Fourier Transform using the message parsing interface. It was tested on 16 CPUs in a Linux cluster at the Georgia Institute of Technology.
+This is a C++ program that implements a 2-dimensional Discrete Fourier Transform using the message parsing interface. It was tested on 16 CPUs in a Linux cluster at the Georgia Institute of Technology. An explanation of the project requirements in found in the file 'fft2d.pdf'.
