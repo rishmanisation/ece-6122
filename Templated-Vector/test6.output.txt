@@ -1,0 +1,57 @@
+Starting Test6
+Test6 results
+Hello from string replaced 0
+Hello from string replaced 1
+Hello from string replaced 2
+Hello from string replaced 3
+Hello from string replaced 4
+Hello from string replaced 5
+Hello from string replaced 6
+Hello from string replaced 7
+Hello from string replaced 8
+Hello from string replaced 9
+Hello from string replaced 10
+Hello from string replaced 11
+Hello from string replaced 12
+Hello from string replaced 13
+Hello from string replaced 14
+Hello from string replaced 15
+Hello from string replaced 16
+Hello from string replaced 17
+Hello from string replaced 18
+Hello from string replaced 19
+Hello from string replaced 20
+Hello from string replaced 21
+Hello from string replaced 22
+Hello from string replaced 23
+Hello from string replaced 24
+Hello from string replaced 25
+Hello from string replaced 26
+Hello from string replaced 27
+Hello from string replaced 28
+Hello from string replaced 29
+Hello from string replaced 30
+Hello from string replaced 31
+Hello from string replaced 32
+Hello from string replaced 33
+Hello from string replaced 34
+Hello from string replaced 35
+Hello from string replaced 36
+Hello from string replaced 37
+Hello from string replaced 38
+Hello from string replaced 39
+Hello from string replaced 40
+Hello from string replaced 41
+Hello from string replaced 42
+Hello from string replaced 43
+Hello from string replaced 44
+Hello from string replaced 45
+Hello from string replaced 46
+Hello from string replaced 47
+Hello from string replaced 48
+Hello from string replaced 49
+DefaultCount  0
+CreateCount   100
+CopyCount     1275
+DestructCount 1375
+AssignCount   50
