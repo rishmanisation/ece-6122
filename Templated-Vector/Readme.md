@@ -1,0 +1,1 @@
+Templated vector assignment
